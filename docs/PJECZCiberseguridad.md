@@ -20,7 +20,7 @@ Junio de 2024
 
 # Contenido
 
-- Qué es la ciberseguridad
+- ¿Qué es la ciberseguridad?
 - La importancia de la información digital
 - Protección de los datos personales
 - Ciberamenazas actuales
@@ -31,7 +31,7 @@ Junio de 2024
 
 ---
 
-# Qué es la ciberseguridad
+# ¿Qué es la ciberseguridad?
 
 - La ciberseguridad es la protección de la información digital y la prevención de ataques cibernéticos.
 - Un evento que comprometa la ciberseguridad puede tener consecuencias graves como interrumpir operaciones, robar información confidencial o perder los datos de una institución.
@@ -95,10 +95,10 @@ Junio de 2024
 
 - Implementación de contraseñas seguras y autenticación de dos factores
 - Actualización de sistemas operativos y antivirus
-- Fortinet: Firewall, VPN, VLAN.
+- Fortinet: Firewall, VPN, VLAN
 - Respaldo de información
 - Plan de respuesta a incidentes
-- Capacitar en materia de seguridad cibernética
+- Capacitar a todos los usuarios
 
 ![bg left w:400](server-maintenance-work.jpg)
 
