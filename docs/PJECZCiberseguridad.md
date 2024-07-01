@@ -34,7 +34,7 @@ Junio de 2024
 # Qué es la ciberseguridad
 
 - La ciberseguridad es la protección de la información digital y la prevención de ataques cibernéticos.
-- Un evento que comprometa la ciberseguridad puede tener consecuencias graves como interrumpir operaciones, robar información confidencial o perder los datos de una instutución.
+- Un evento que comprometa la ciberseguridad puede tener consecuencias graves como interrumpir operaciones, robar información confidencial o perder los datos de una institución.
 
 ![bg right w:400](cybersecurity-researcher-studying.jpg)
 
